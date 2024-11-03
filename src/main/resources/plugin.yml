@@ -1,0 +1,7 @@
+name: Minesweeper
+version: '1.0-SNAPSHOT'
+main: de.oxsss.minesweeper.Minesweeper
+api-version: '1.21'
+prefix: [ Minesweeper ]
+authors: [ oxsss ]
+description: A fun minigame plugin.
